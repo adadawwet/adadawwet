@@ -50,8 +50,3 @@ Right now I'm diving into:
 
 ![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
----
-
-## 🎵 Vibe
-
-![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
