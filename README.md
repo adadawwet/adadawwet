@@ -13,7 +13,7 @@ Right now I'm diving into:
 - 🌐 HTML, CSS, JavaScript  
 - 🐍 Python  
 - 🛠️ Application development  
-- 🔐 Cybersecurity basics  
+- 🔐 Cybersecurity  
 
 ---
 
